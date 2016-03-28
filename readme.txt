@@ -9,3 +9,6 @@ new dev branch
 fenzhi
 next
 ff1
+stash
+stash2
+after stash
